@@ -1,0 +1,23 @@
+[
+  {
+    "id": 37681,
+    "name": "Product 1",
+    "totalReviews": 1678,
+    "price": 180,
+    "photo": "http://picsum.photos/100/100/?image=109"
+  },
+  {
+    "id": 18671,
+    "name": "Product 2",
+    "totalReviews": 78,
+    "price": 80,
+    "photo": "http://picsum.photos/100/100/?image=110"
+  },
+  {
+    "id": 27861,
+    "name": "Product 3",
+    "totalReviews": 678,
+    "price": 300,
+    "photo": "http://picsum.photos/100/100/?image=112"
+  }
+]
