@@ -1,5 +1,5 @@
 ## Challenge Idea
-The purpose of this task is to show your frontend skills (javascript, html, css), one page should be implemented that shows products list and the user can click on any product to get its details
+The purpose of this task is to show your ReactNative skills (javascript, styling, networkig), one screen should be implemented that shows products list and the user can click on any product to get its details screen
 
 
 ![alt text](./nana-shop-rn.png)
